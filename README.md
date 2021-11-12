@@ -1,0 +1,4 @@
+# VigenereCipher
+Vigenere Cipher encyptor in Java 
+
+I DO NOT AUTHORIZE THE REUSE OF THIS CODE FOR ANY UNIVERSITY RELATED ASSIGNMENTS
